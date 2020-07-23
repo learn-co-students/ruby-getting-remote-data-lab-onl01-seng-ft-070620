@@ -20,4 +20,3 @@ class GetRequester
         JSON.parse(self.get_response_body)
     end
 end
- binding.pry
